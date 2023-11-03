@@ -1,1 +1,67 @@
-
+{
+  
+  "users": [
+    {
+      "name": "Yahia",
+      "email": "yahiaibrahime123@gmail.com",
+      "password": "98542369",
+      "id": 1
+    },
+    {
+      "name": "Mohamed",
+      "email": "MohamedHassan2002@gmail.com",
+      "password": "123456789",
+      "id": 2
+    },
+    {
+      "name": "Hossam",
+      "email": "hossamOsama1991@yahoo.com",
+      "password": "445778963",
+      "id": 3
+    },
+    {
+      "name": "Mohamed",
+      "email": "MoFarahat99@gmail.com",
+      "password": "789456123",
+      "id": 4
+    },
+    {
+      "name": "TopyMaguire",
+      "email": "spiderMan@marvel.com",
+      "password": "#tonystark#",
+      "id": 5
+    }
+  ],
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "Gamal AbdelNasser",
+      "contact": "11111",
+      "email": "GamalAbdelNasser@idsc.gov.eg",
+      "fax": "(20-2) 7953966",
+      "departements": [
+        {
+          "id": 1,
+          "name": "neurology",
+          "doctors": [
+            {
+              "name": "Medhat",
+              "rating": 5,
+              "id": 3
+            },
+            {
+              "name": "Mo2nes",
+              "rating": 4,
+              "id": 2
+            },
+            {
+              "name": "Mohsen",
+              "rating": 3,
+              "id": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
