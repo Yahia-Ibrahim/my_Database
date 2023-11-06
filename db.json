@@ -78,6 +78,12 @@
           "name": "General Surgery Dep",
           "doctors": [
             {
+              "name": "Abdullah",
+              "rating": 3,
+              "imagepath": "C:/Users/Yahia alkaranshawy/Downloads/My-Github/Hospital-system-project/src/assets/adel.jpg",
+              "id": 4
+            },
+            {
               "name": "Ahmed",
               "rating": 5,
               "imagepath": "/assets/ahmed.jpg",
