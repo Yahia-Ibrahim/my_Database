@@ -98,19 +98,19 @@
             {
               "name": "Ahmed",
               "rating": 5,
-              "imagepath": "/assets/ahmed.jpg",
+              "imagepath": "../assets/ahmed.jpg",
               "id": 3
             },
             {
               "name": "Abo Obayda",
               "rating": 4,
-              "imagepath": "C:/Users/Yahia alkaranshawy/Downloads/My-Github/Hospital-system-project/src/assets/abuobayda.jpg",
+              "imagepath": "../assets/abuobayda.jpg",
               "id": 2
             },
             {
               "name": "Adel",
               "rating": 3,
-              "imagepath": "C:/Users/Yahia alkaranshawy/Downloads/My-Github/Hospital-system-project/src/assets/adel.jpg",
+              "imagepath": "../assets/adel.jpg",
               "id": 1
             }
           ]
