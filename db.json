@@ -78,6 +78,18 @@
           "name": "General Surgery Dep",
           "doctors": [
             {
+              "name": "Ramy",
+              "rating": 3,
+              "imagepath": "C:/Users/Yahia alkaranshawy/Downloads/My-Github/Hospital-system-project/src/assets/adel.jpg",
+              "id": 6
+            },
+            {
+              "name": "AbdelGhafar",
+              "rating": 3,
+              "imagepath": "C:/Users/Yahia alkaranshawy/Downloads/My-Github/Hospital-system-project/src/assets/adel.jpg",
+              "id": 5
+            },
+            {
               "name": "Abdullah",
               "rating": 3,
               "imagepath": "C:/Users/Yahia alkaranshawy/Downloads/My-Github/Hospital-system-project/src/assets/adel.jpg",
