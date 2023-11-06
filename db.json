@@ -98,19 +98,19 @@
             {
               "name": "Ahmed",
               "rating": 5,
-              "imagepath": "../assets/ahmed.jpg",
+              "imagepath": "../assets/Ahmed.jpg",
               "id": 3
             },
             {
               "name": "Abo Obayda",
               "rating": 4,
-              "imagepath": "../assets/abuobayda.jpg",
+              "imagepath": "../assets/Abuobayda.jpg",
               "id": 2
             },
             {
               "name": "Adel",
               "rating": 3,
-              "imagepath": "../assets/adel.jpg",
+              "imagepath": "../assets/Adel.png",
               "id": 1
             }
           ]
