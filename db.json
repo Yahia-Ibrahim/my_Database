@@ -80,19 +80,19 @@
             {
               "name": "Ahmed",
               "rating": 5,
-              "imagePath": "C:\Users\Yahia alkaranshawy\Downloads\My-Github\Hospital-system-project\src\assets\ahmed.jpg",
+              "imagePath": "../assets/ahmed.jpg",
               "id": 3
             },
             {
               "name": "Abo Obayda",
               "rating": 4,
-              "imagePath": "C:\Users\Yahia alkaranshawy\Downloads\My-Github\Hospital-system-project\src\assets\abuobayda.jpg",
+              "imagePath": "../assets/abuobayda.jpg",
               "id": 2
             },
             {
               "name": "Adel",
               "rating": 3,
-              "imagePath": "C:\Users\Yahia alkaranshawy\Downloads\My-Github\Hospital-system-project\src\assets\adel.png",
+              "imagePath": "../assets/adel.png",
               "id": 1
             }
           ]
