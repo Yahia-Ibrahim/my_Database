@@ -80,7 +80,7 @@
             {
               "name": "Ahmed",
               "rating": 5,
-              "imagepath": "/src/assets/ahmed.jpg",
+              "imagepath": "/assets/ahmed.jpg",
               "id": 3
             },
             {
