@@ -47,19 +47,19 @@
             {
               "name": "Medhat",
               "rating": 5,
-              "imagepath": "",
+              "imagepath": "../assets/adel.png",
               "id": 3
             },
             {
               "name": "Mo2nes",
               "rating": 4,
-              "imagepath": "",
+              "imagepath": "../assets/adel.png",
               "id": 2
             },
             {
               "name": "Mohsen",
               "rating": 3,
-              "imagepath": "",
+              "imagepath": "../assets/adel.png",
               "id": 1
             }
           ]
