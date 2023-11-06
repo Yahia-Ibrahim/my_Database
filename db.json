@@ -80,7 +80,7 @@
             {
               "name": "Ahmed",
               "rating": 5,
-              "imagepath": "C:/Users/Yahia alkaranshawy/Downloads/My-Github/Hospital-system-project/src/assets/ahmed.jpg",
+              "imagepath": "/src/assets/ahmed.jpg",
               "id": 3
             },
             {
