@@ -47,16 +47,19 @@
             {
               "name": "Medhat",
               "rating": 5,
+              "imagePath": "",
               "id": 3
             },
             {
               "name": "Mo2nes",
               "rating": 4,
+              "imagePath": "",
               "id": 2
             },
             {
               "name": "Mohsen",
               "rating": 3,
+              "imagePath": "",
               "id": 1
             }
           ]
@@ -77,16 +80,19 @@
             {
               "name": "Ahmed",
               "rating": 5,
+              "imagePath": "C:\Users\Yahia alkaranshawy\Downloads\My-Github\Hospital-system-project\src\assets\ahmed.jpg",
               "id": 3
             },
             {
               "name": "Abo Obayda",
               "rating": 4,
+              "imagePath": ""C:\Users\Yahia alkaranshawy\Downloads\My-Github\Hospital-system-project\src\assets\abuobayda.jpg"",
               "id": 2
             },
             {
               "name": "Adel",
               "rating": 3,
+              "imagePath": ""C:\Users\Yahia alkaranshawy\Downloads\My-Github\Hospital-system-project\src\assets\adel.png"",
               "id": 1
             }
           ]
