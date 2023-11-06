@@ -62,6 +62,36 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2,
+      "name": "Mabarat Kafr AlDawar",
+      "contact": "11222",
+      "email": "MabaratKafrAlDawar@idsc.gov.eg",
+      "fax": "(20-2) 79932632",
+      "departements": [
+        {
+          "id": 1,
+          "name": "General Surgery Dep",
+          "doctors": [
+            {
+              "name": "Ahmed",
+              "rating": 5,
+              "id": 3
+            },
+            {
+              "name": "Abo Obayda",
+              "rating": 4,
+              "id": 2
+            },
+            {
+              "name": "Adel",
+              "rating": 3,
+              "id": 1
+            }
+          ]
+        }
+      ]
     }
   ]
 }
