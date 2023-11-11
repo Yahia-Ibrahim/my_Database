@@ -75,7 +75,7 @@
       "departements": [
         {
           "id": 1,
-          "name": "General Surgery Dep",
+          "name": "General Surgery",
           "doctors": [
             {
               "name": "Ramy",
